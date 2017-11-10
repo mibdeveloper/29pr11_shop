@@ -1,0 +1,21 @@
+.first{
+	background-image: url(../img/MainImageFridayThe13th.jpg);
+    background-repeat: no-repeat;
+	background-size: 100%;
+	width: 800px;
+	height: 800px;
+	display: inline-block;
+}
+.buttonHorror{
+	text-align: center;
+
+
+
+}
+#horror{
+	background: red;
+	
+}
+body{
+	background: black;
+}
